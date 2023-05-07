@@ -9,7 +9,7 @@ fun main(){
 
     // println(kolichRabov)
 
-    kolichRabov = kolichRabov-1
+    kolichRabov--
 
     println(kolichRabov)
 
