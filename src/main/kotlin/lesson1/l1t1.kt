@@ -2,6 +2,8 @@ package lesson1
 
 fun main(){
 
-    println("eto reshenie 1 zadachi")
+    var kolichZakazov: Byte = 75
+    var otzyv: String = "Tovar oxyenen"
+
 
 }
