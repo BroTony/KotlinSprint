@@ -1,9 +1,9 @@
 fun main(){
 
-    var weather: Boolean
-    var dammage: Boolean
-    var matrosCount: Byte
-    var boxCount: Byte
+    val weather: Boolean
+    val dammage: Boolean
+    val matrosCount: Byte
+    val boxCount: Byte
 
     println("Eсть ли повреждения корпуса?")
     dammage = readLine()!!.toBoolean()
