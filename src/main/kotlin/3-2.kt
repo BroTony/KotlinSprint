@@ -1,9 +1,9 @@
 fun main(){
 
-    var fioBefore = "Андреева Татьяна Сергеевна"
-    var fioAfter = "Сидорова Татьяна Сергеевна"
-    var ageBefore = 20
-    var ageAfter = 22
+    val fioBefore = "Андреева Татьяна Сергеевна"
+    val fioAfter = "Сидорова Татьяна Сергеевна"
+    val ageBefore = 20
+    val ageAfter = 22
 
     println("$fioBefore, $ageBefore")
     println("$fioAfter, $ageAfter")
