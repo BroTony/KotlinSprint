@@ -17,7 +17,7 @@ fun main(){
                 numberCapcha1 = (1..9).random()
                 numberCapcha2 = (1..9).random()
                 println("Решите уравнение $numberCapcha1 + $numberCapcha2")
-                numberTest = readln()!!.toInt()
+                numberTest = readln().toInt()
                 if (numberTest == numberCapcha1 + numberCapcha2)
                     println("Welcome")
                 count++
