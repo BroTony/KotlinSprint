@@ -3,12 +3,12 @@ fun main(){
     var from = "E2"
     var to = "E4"
     var num = 1
-    var  stroca = "$from, $to, $num"
-    println(stroca)
+    var onPrint = "$from, $to, $num"
+    println(onPrint)
     from = "D2"
-    to = "D4"
+    to = "D3"
     num++
-    stroca = "$from, $to, $num"
-    println(stroca)
+    onPrint = "$from, $to, $num"
+    println(onPrint)
 
 }
