@@ -19,7 +19,7 @@ fun main(){
                 println("Решите уравнение $numberCapcha1 + $numberCapcha2")
                 numberTest = readln()!!.toInt()
                 if (numberTest == numberCapcha1 + numberCapcha2)
-                    println("Welcome")
+                    println("Welcome!!")
                 count++
             } while (count <3 && numberTest != numberCapcha1 + numberCapcha2)
             if (numberTest != numberCapcha1 + numberCapcha2)
