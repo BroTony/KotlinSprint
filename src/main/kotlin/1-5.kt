@@ -13,6 +13,4 @@ fun main(){
     else
         println(ostatokSeconds)
 
-
-
 }
