@@ -1,7 +1,7 @@
-fun main(){
+fun main() {
 
-    var generatePassword:Int
-    var testPassword:Int
+    var generatePassword: Int
+    var testPassword: Int
 
     do {
         generatePassword = (1000..9999).random()
