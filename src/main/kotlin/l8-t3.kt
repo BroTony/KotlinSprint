@@ -6,9 +6,9 @@ fun main() {
     var testIngredient = -1
 
     testIngredient = arrayOfProducts.indexOf(searchProduct)
-    if (testIngredient >= 0)
+        if (testIngredient >= 0)
     println("Ингредиент $searchProduct в рецепте есть")
-    else
+        else
     println("Такого ингредиента в рецепте нет")
 
 }
