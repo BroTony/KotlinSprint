@@ -4,7 +4,8 @@ fun main(){
     println("В рецепте есть следующие ингридиенты:")
     println("$listProducts")
 
-    for (i in listProducts)
-        println("$i")
+    listProducts.forEach{
+        println("$it")
+    }
 
 }
