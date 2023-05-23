@@ -1,6 +1,6 @@
 package lesson11
 
-fun main(){
+fun main() {
 
     val user1 = User(
         id = 0,

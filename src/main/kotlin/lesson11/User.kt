@@ -7,7 +7,7 @@ class User (
     val email: String,
 ){
 
-    fun printAllDates(){
+    fun printAllDates() {
         println(id)
         println(log)
         println(password)
