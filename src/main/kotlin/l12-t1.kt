@@ -21,4 +21,5 @@ class Weathter {
         println("температура ночью $tempNight")
         println("наличие дождя $isRain")
     }
+
 }
