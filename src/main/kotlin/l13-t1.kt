@@ -2,4 +2,4 @@ fun main(){
 
 }
 
-class TelBook(val name: String, val number: Long, val company: String? = null)
+class Kontact(val name: String, val number: Long, val company: String? = null)
