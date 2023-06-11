@@ -1,6 +1,6 @@
 fun main(){
 
-    val contact = TelBook("Anton", 89670604004)
+    val contact = TelBook("Anton", 89670604004, null)
 
     contact.print()
 
