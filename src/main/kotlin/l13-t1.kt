@@ -2,4 +2,4 @@ fun main(){
 
 }
 
-class Kontact(val name: String, val number: Long, val company: String? = null)
+class Contact(val name: String, val number: Long, val company: String? = null)
